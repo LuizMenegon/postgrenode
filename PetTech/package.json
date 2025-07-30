@@ -1,0 +1,19 @@
+{
+  "name": "pettech",
+  "version": "1.0.0",
+  "description": "Aprendizagem de Node.js com PostgreSQL",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/node": "^24.1.0",
+    "tsup": "^8.5.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.8.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
