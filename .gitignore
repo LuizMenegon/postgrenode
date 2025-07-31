@@ -1,2 +1,4 @@
 node_modules/
 # Ignore node_modules in PostgreSQL directory
+.env
+# Ignore environment variable files
